@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "AirBnB Regression Analysis"
       subtitle = "Predicting the cost of a four night stay in Cape Town"
       image = "cape town.jpg"
-      url = "blogs/blog5"
+      url = "blogs/blog1"
 
     [[params.tiles.showcase]]
       title = "Examining Pay Discrimination at Omega Group Plc."
@@ -139,7 +139,7 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "My Projects"
-    subtitle = "Explore the data analytics projects I've been working on"
+    subtitle = "Explore the data analytics projects I've been working on."
     buttonText = "Get Started"
     url = "blogs"
 
