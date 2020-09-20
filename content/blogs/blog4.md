@@ -7,7 +7,7 @@ description: Is there a significant difference between the salaries of men and w
 draft: false
 image: office.jpg
 keywords: ""
-slug: aqualium
+slug: tempus
 title: Examining Pay Discrimination at Omega Group Plc.
 ---
 

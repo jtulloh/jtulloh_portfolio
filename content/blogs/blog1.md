@@ -7,7 +7,7 @@ description: Predicting the cost of a four night stay in Cape Town
 draft: false
 image: cape town.jpg
 keywords: ""
-slug: ipsum
+slug: aqualium
 title: Airbnb Regression Analysis
 ---
 *Executive Summary*

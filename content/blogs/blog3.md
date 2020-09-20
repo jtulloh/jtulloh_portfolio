@@ -7,7 +7,7 @@ description: Exploring deviations from global average temperature over time, usi
 draft: false
 image: climate.jpg
 keywords: ""
-slug: tempus
+slug: ipsum
 title: Is our planet getting hotter?
 ---
 

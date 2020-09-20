@@ -6,4 +6,4 @@ slug: blogs
 title: My Projects
 ---
 
-My data analytics projects. 
+Explore my current projects! 
