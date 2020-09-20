@@ -51,9 +51,9 @@ disqusShortname = ""
       name = "Projects"
       url = "blogs"
 
-    #[[params.navigation.links]]
-      #name = "Generic Blog"
-      #url = "blogs/ipsum"
+    [[params.navigation.links]]
+      name = "CV"
+      url = "blogs/ipsum"
 
     #[[params.navigation.links]]
       #name = "Elements"
@@ -82,7 +82,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Hi, my name is Julia"
-    #subtitle = ""
+    #subtitle = "Nice to meet you! On this webpage I'll showcase some of the data analytics-driven projects I've been working on."
     buttonText = "Get Started"
 
 
@@ -103,11 +103,11 @@ disqusShortname = ""
       image = "office.jpg"
       url = "blogs/blog2"
 
-    #[[params.tiles.showcase]]
-      #title = "Climate Change Temperature Anomalies"
-      #subtitle = "Lorem Etiam Nullam"
-      #image = "pic03.jpg"
-      #url = "blogs/blog3"
+    [[params.tiles.showcase]]
+      title = "Using ggplot for data visualization"
+      subtitle = "Exploring the power of data visualization for various projects"
+      image = "pic03.jpg"
+      url = "blogs/blog3"
 
     #[[params.tiles.showcase]]
       #title = "Project 4"
@@ -138,8 +138,8 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "My Projects"
-    subtitle = "Explore the data analytics projects I've been working on."
+    title = "About Me"
+    subtitle = "My name is Julia Tulloh and I'm currently a Master's student at London Business School. Before coming to London, I spent a year in NYC working in consulting. I did my undergraduate at the University of Pennsylvania where I studied Business Analytics and Philosophy, Politics, and Economics, and was a member of the varsity volleyball team. On this site, I will showcase some of the most interesting analyses I've been working on."
     buttonText = "Get Started"
     url = "blogs"
 
