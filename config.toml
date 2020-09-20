@@ -51,9 +51,9 @@ disqusShortname = ""
       name = "Projects"
       url = "blogs"
 
-    [[params.navigation.links]]
-      name = "CV"
-      url = "blogs/ipsum"
+    #[[params.navigation.links]]
+      #name = "CV"
+      #url = "blogs/ipsum"
 
     #[[params.navigation.links]]
       #name = "Elements"
@@ -68,8 +68,8 @@ disqusShortname = ""
 
     # Button Style 1
     [[params.navigation.button1]]
-      name = "Contact"
-      url = "blogs"
+      name = "CV"
+      url = "blogs/aqualium"
 
     # Button Style 2
     #[[params.navigation.button2]]
@@ -82,7 +82,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Hi, my name is Julia"
-    #subtitle = "Nice to meet you! On this webpage I'll showcase some of the data analytics-driven projects I've been working on."
+    subtitle = "Nice to meet you! On this webpage I'll showcase some of the data analytics-driven projects I've been working on."
     buttonText = "Get Started"
 
 
@@ -95,13 +95,13 @@ disqusShortname = ""
       title = "AirBnB Regression Analysis"
       subtitle = "Predicting the cost of a four night stay in Cape Town"
       image = "cape town.jpg"
-      url = "blogs/blog1"
+      url = "blogs/blog5"
 
     [[params.tiles.showcase]]
       title = "Examining Pay Discrimination at Omega Group Plc."
       subtitle = "Is there a significant difference between the salaries of men and women at Omega Group?"
       image = "office.jpg"
-      url = "blogs/blog2"
+      url = "blogs/omega"
 
     [[params.tiles.showcase]]
       title = "Using ggplot for data visualization"
