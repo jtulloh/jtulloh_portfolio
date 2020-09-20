@@ -109,11 +109,11 @@ disqusShortname = ""
       image = "data.jpg"
       url = "blogs/visualizations.html"
 
-    #[[params.tiles.showcase]]
-      #title = "Project 4"
-      #subtitle = "Nisl Sed Aliquam"
-      #image = "pic04.jpg"
-      #url = "blogs/blog4"
+    [[params.tiles.showcase]]
+      title = "Is our planet getting hotter?"
+      subtitle = "Exploring deviations from global average temperature over time, using data from NASA."
+      image = "climate.jpg"
+      url = "blogs/climatechange.html"
 
     #[[params.tiles.showcase]]
     #  title = "Project 5"
@@ -170,9 +170,9 @@ disqusShortname = ""
     title = "Email"
     email = "jtulloh.mam2021@london.edu"
 
-    #[[params.contact.phone]]
-    #title = "Phone"
-    #phone = "+44 07485600258"
+    [[params.contact.phone]]
+    title = "Phone"
+    phone = "Available upon request"
 
     [[params.contact.address]]
     title = "London Business School"
