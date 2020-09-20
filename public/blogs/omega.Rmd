@@ -12,6 +12,9 @@ slug: magna
 title: Examining Pay Discrimination at Omega Group Plc.
 ---
 
+Click here for HTML: 
+
+See code below: 
 
 ```{r, setup, echo=FALSE}
 knitr::opts_chunk$set(

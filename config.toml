@@ -101,7 +101,7 @@ disqusShortname = ""
       title = "Examining Pay Discrimination at Omega Group Plc."
       subtitle = "Is there a significant difference between the salaries of men and women at Omega Group?"
       image = "office.jpg"
-      url = "blogs/omega"
+      url = "blogs/omega-html.html"
 
     [[params.tiles.showcase]]
       title = "Using ggplot for data visualization"
