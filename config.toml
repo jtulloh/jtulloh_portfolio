@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "AirBnB Regression Analysis"
       subtitle = "Predicting the cost of a four night stay in Cape Town"
       image = "cape town.jpg"
-      url = "blogs/blog5"
+      url = "blogs/cape_town_master_v10.html"
 
     [[params.tiles.showcase]]
       title = "Examining Pay Discrimination at Omega Group Plc."
