@@ -8,13 +8,13 @@ description: Is there a significant difference between the salaries of men and w
 draft: false
 image: office.jpg
 keywords: ""
-slug: magna
+slug: omega-html.html
 title: Examining Pay Discrimination at Omega Group Plc.
 ---
 
-Click here for HTML: 
+Click here for HTML: https://jtullohportfolio.netlify.app/blogs/omega-html.html
 
-See code below: 
+*See code below:*
 
 ```{r, setup, echo=FALSE}
 knitr::opts_chunk$set(
