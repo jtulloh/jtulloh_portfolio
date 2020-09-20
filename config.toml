@@ -104,8 +104,8 @@ disqusShortname = ""
       url = "blogs/omega-html.html"
 
     [[params.tiles.showcase]]
-      title = "Using ggplot for data visualization"
-      subtitle = "Exploring the power of data visualization for various projects"
+      title = "Using ggplot2 for data visualization"
+      subtitle = "Exploring the power of data visualization in several projects"
       image = "data.jpg"
       url = "blogs/visualizations.html"
 

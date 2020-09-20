@@ -8,9 +8,9 @@ draft: false
 image: data.jpg
 keywords: ""
 slug: magna
-title: Using ggplot for data visualization
+title: Using ggplot2 for data visualization
 ---
-In this project, I highlight some of my favorite data visualizations. 
+In this project, I highlight some of my favorite data visualizations. We explored 2016 US election campaign contributions, Covid-19 death rates by gender, and how bike rentals in London have changed over time.  
 
 *Collaborators:* Ilana Kovalenko, Alex Vignjevic, Jasper Muller, Keshav Asokan, and Ziyi Yang 
 
