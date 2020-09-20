@@ -106,8 +106,8 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Using ggplot for data visualization"
       subtitle = "Exploring the power of data visualization for various projects"
-      image = "pic03.jpg"
-      url = "blogs/blog3"
+      image = "data.jpg"
+      url = "blogs/visualizations.html"
 
     #[[params.tiles.showcase]]
       #title = "Project 4"

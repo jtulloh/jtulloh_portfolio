@@ -15,3 +15,7 @@ In this exercise, we analyse listings from Airbnb bookings (via insideairbnb.com
 To kick things off, we performed EDA to examine the data in more detail. Next, we subset the data and performed feature engineering to create new features which may suitable for further modeling.
 From this exercise, we move to regression analysis where we iteratively test out a few indicators to see if they are significant in explaining the variability within the dataset.
 We build up on this to create a final model of 7 covariates (property type, room type, review ratings scores,  cancellation policy,  how many people the property accommodates, which neighbourhood the property is in and if the property has air conditioning installed. This model achieves a **R squared** of **0.512**. Finally, we use this model to make a prediction on unseen problem.
+
+*Collaborators:* Ilana Kovalenko, Alex Vignjevic, Jasper Muller, Keshav Asokan, and Ziyi Yang 
+
+Click here for HTML: <https://jtullohportfolio.netlify.app/blogs/cape_town_master_v10.html>

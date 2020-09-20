@@ -17,5 +17,7 @@ At the last board meeting of Omega Group Plc., the headquarters of a large multi
 
 We are asked to carry out the analysis. Our objective is to find out whether there is indeed a significant difference between the salaries of men and women, and whether the difference is due to discrimination or whether it is based on another, possibly valid, determining factor. 
 
+*Collaborators:* Ilana Kovalenko, Alex Vignjevic, Jasper Muller, Keshav Asokan, and Ziyi Yang 
+
 *Click here for HTML:* <https://jtullohportfolio.netlify.app/blogs/omega-html.html>
 
