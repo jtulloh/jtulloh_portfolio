@@ -69,7 +69,7 @@ disqusShortname = ""
     # Button Style 1
     [[params.navigation.button1]]
       name = "CV"
-      url = "blogs/aqualium"
+      url = "blogs/LBS CV Julia Tulloh_092020.pdf"
 
     # Button Style 2
     #[[params.navigation.button2]]
